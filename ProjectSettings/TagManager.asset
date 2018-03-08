@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Obstacle
+  - PostProcessingLayer
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1149423329
+    locked: 0
+  - name: wall_obstacles
+    uniqueID: 827912481
+    locked: 0
+  - name: props_back
+    uniqueID: 2716053747
+    locked: 0
+  - name: props_fore
+    uniqueID: 875236365
+    locked: 0
+  - name: level_obstacles
+    uniqueID: 2874143807
+    locked: 0
+  - name: enemies
+    uniqueID: 688114013
+    locked: 0
+  - name: player
+    uniqueID: 2150498211
+    locked: 0
+  - name: foreground_props
+    uniqueID: 2718254657
+    locked: 0
+  - name: foreground_interactive
+    uniqueID: 1644657413
+    locked: 0
